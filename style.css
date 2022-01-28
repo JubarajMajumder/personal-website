@@ -76,6 +76,11 @@ section{
 .footer-area{
     text-align: center;
 }
+.footer-area{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
 .email-box{
     background-color: deeppink;
     width: 600px;
